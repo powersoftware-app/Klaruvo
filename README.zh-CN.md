@@ -12,7 +12,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey)](#-下载安装)
 [![Latest Release](https://img.shields.io/github/v/release/powersoftware-app/Klaruvo?label=最新版本)](https://github.com/powersoftware-app/Klaruvo/releases/latest)
 
-[下载安装包](#-下载安装) · [功能特性](#-功能特性) · [常见问题](#-常见问题) · [产品详情 / 购买授权](https://www.powersoftware.app/product/detail/klaruvo)
+[下载安装包](#-下载安装) · [功能特性](#-功能特性) · [常见问题](#-常见问题) · [产品详情（国内站）](https://www.powersoftware.cn/product/detail/klaruvo) · [国际站](https://www.powersoftware.app/product/detail/klaruvo)
 
 </div>
 
@@ -82,9 +82,12 @@ NVIDIA 显卡可选用于加速（CPU 亦可运行）。
 
 ## 🛒 试用与授权
 
-Klaruvo 首发于 **[幂栈网 PowerSoftware](https://www.powersoftware.app)** —— 面向独立开发者的软件分发与授权管理平台。
+Klaruvo 首发于 **[幂栈网 PowerSoftware](https://www.powersoftware.cn)** —— 面向独立开发者的软件分发与授权管理平台。
 
-👉 **[查看 Klaruvo 产品详情 / 免费下载试用 / 购买授权](https://www.powersoftware.app/product/detail/klaruvo)**
+👉 **查看产品详情 / 免费下载试用 / 购买授权**
+
+- 🇨🇳 **国内站（中文）**—— [powersoftware.cn/product/detail/klaruvo](https://www.powersoftware.cn/product/detail/klaruvo)
+- 🌐 **国际站（English）**—— [powersoftware.app/product/detail/klaruvo](https://www.powersoftware.app/product/detail/klaruvo)
 
 - **先用后付**：0 元下载完整安装包，免费试用后再购买授权码解锁付费功能
 - **自动发码**：支付成功后自动发放授权码并邮件送达，软件内一键激活
@@ -104,6 +107,6 @@ Klaruvo 首发于 **[幂栈网 PowerSoftware](https://www.powersoftware.app)** �
 
 <div align="center">
 
-本仓库不接受 Issue 与 PR；使用问题请通过 **[幂栈网](https://www.powersoftware.app)** 反馈。
+本仓库不接受 Issue 与 PR；使用问题请通过 **[幂栈网](https://www.powersoftware.cn)** 反馈。
 
 </div>

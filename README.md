@@ -12,7 +12,7 @@ Your images never leave your machine. Offline-capable, no ads, no watermarks.
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey)](#-download--install)
 [![Latest Release](https://img.shields.io/github/v/release/powersoftware-app/Klaruvo?label=latest)](https://github.com/powersoftware-app/Klaruvo/releases/latest)
 
-[Download](#-download--install) · [Features](#-features) · [FAQ](#-faq) · [Product details / Buy a license](https://www.powersoftware.app/product/detail/klaruvo)
+[Download](#-download--install) · [Features](#-features) · [FAQ](#-faq) · [Product details (International)](https://www.powersoftware.app/product/detail/klaruvo) · [China site](https://www.powersoftware.cn/product/detail/klaruvo)
 
 </div>
 
@@ -84,7 +84,10 @@ an NVIDIA GPU is optional for acceleration (CPU works too).
 
 Klaruvo is launched on **[PowerSoftware (幂栈网)](https://www.powersoftware.app)** — a software distribution and license-management platform for indie developers.
 
-👉 **[Product details / Free trial / Buy a license](https://www.powersoftware.app/product/detail/klaruvo)**
+👉 **Product details / Free trial / Buy a license**
+
+- 🌐 **International site (English)** — [powersoftware.app/product/detail/klaruvo](https://www.powersoftware.app/product/detail/klaruvo)
+- 🇨🇳 **China site (中文 / domestic)** — [powersoftware.cn/product/detail/klaruvo](https://www.powersoftware.cn/product/detail/klaruvo)
 
 - **Try before you buy** — download the full installer for free, then purchase a license key to unlock the paid features
 - **Automatic delivery** — the license key is issued automatically after payment and emailed to you; activate it in-app with one click
