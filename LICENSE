@@ -226,3 +226,42 @@ Klaruvo 是 [Sanster/IOPaint](https://github.com/Sanster/IOPaint) 的二次开�
 
 4. **商标与署名**：Klaruvo、IOPaint 及幂栈网的名称与标识归各自权利人所有。
    分发本软件或本仓库内容时，请完整保留本补充说明与上游版权声明。
+
+----------------------------------------------------------------------
+
+# Supplementary Notice — Klaruvo (English, for reference only)
+
+> The text below is a convenience translation provided for readers of the English
+> README. It is **informative only** and creates no rights or obligations of its own.
+> If it conflicts with the Chinese notice above, the Chinese text prevails.
+
+Klaruvo is a derivative work based on the open-source project
+[Sanster/IOPaint](https://github.com/Sanster/IOPaint).
+
+**About this repository**: This repository (`Klaruvo`) is the product page and download
+entry for Klaruvo. It **contains only product information, screenshots and licence
+files — no source code**. The software's executables are distributed through this
+repository's [Releases](../../releases) page.
+
+**About licensing**:
+
+1. **Upstream retained**: Klaruvo is built on top of upstream IOPaint and retains the
+   upstream copyright notices in full; the upstream IOPaint code continues to be
+   governed by the Apache License 2.0.
+
+2. **Distribution licence**: The executables distributed by Klaruvo (including its
+   modifications to the upstream code) are likewise licensed under the Apache License
+   2.0 and may be used and redistributed freely. The Apache License 2.0 is a permissive
+   licence and does not require modified source code to be published; accordingly, this
+   project does not release derivative versions in source form.
+
+3. **Scope of platform services**: Trials, licence purchases and licence validation for
+   Klaruvo are provided by the [PowerSoftware (幂栈网)](https://www.powersoftware.app)
+   platform. The platform service itself (accounts, orders, payments, licence issuance
+   and validation APIs, etc.) is not covered by this licence; its use is subject to
+   PowerSoftware's user agreement, developer onboarding agreement and privacy policy.
+
+4. **Trademarks and attribution**: The names and logos of Klaruvo, IOPaint and
+   PowerSoftware belong to their respective owners. When redistributing this software or
+   the contents of this repository, please retain this supplementary notice and the
+   upstream copyright notices in full.
