@@ -57,7 +57,7 @@ Your images never leave your machine. Offline-capable, no ads, no watermarks.
 
 ## 🚀 Download & Install
 
-Grab the build for your platform from the **[Powersoftware.app] [powersoftware.app/product/detail/klaruvo](https://www.powersoftware.app/product/detail/klaruvo)** page:
+Grab the build for your platform from the **[Powersoftware.app](https://www.powersoftware.app/product/detail/klaruvo)** page:
 
 | Platform | File | How to use |
 | --- | --- | --- |
