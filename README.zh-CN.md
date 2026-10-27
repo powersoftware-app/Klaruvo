@@ -57,7 +57,7 @@
 
 ## 🚀 下载安装
 
-前往 **[Releases](https://github.com/powersoftware-app/Klaruvo/releases)** 页面下载对应平台产物：
+前往 **[Powersoftware.app](https://www.powersoftware.app/product/detail/klaruvo)** 页面下载对应平台产物：
 
 | 平台 | 产物 | 用法 |
 | --- | --- | --- |
